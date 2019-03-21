@@ -12,3 +12,4 @@ Compilation of front end websites built for the fun of learning.
 * [Life Queue](https://github.com/sebastiancrossa/lifequeue)
 * [Contactus](https://github.com/sebastiancrossa/contactus)
 * [Pay Agent](https://github.com/sebastiancrossa/pay-agent)
+* [Kisana](https://github.com/sebastiancrossa/kisana-fe)
