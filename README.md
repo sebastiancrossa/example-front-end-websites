@@ -13,3 +13,4 @@ Compilation of front end websites built for the fun of learning.
 * [Contactus](https://github.com/sebastiancrossa/contactus)
 * [Pay Agent](https://github.com/sebastiancrossa/pay-agent)
 * [Kisana](https://github.com/sebastiancrossa/kisana-fe)
+* [Posts with Redux](https://github.com/sebastiancrossa/posts-with-redux)
