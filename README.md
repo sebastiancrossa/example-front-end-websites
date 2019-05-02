@@ -15,3 +15,4 @@ Compilation of front end websites built for the fun of learning.
 * [Kisana](https://github.com/sebastiancrossa/kisana-fe)
 * [Posts with Redux](https://github.com/sebastiancrossa/posts-with-redux)
 * [Koala](https://github.com/sebastiancrossa/koala)
+* [Kredito](https://github.com/sebastiancrossa/kredito)
