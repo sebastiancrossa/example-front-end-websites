@@ -10,6 +10,7 @@ Compilation of front end websites built for the fun of learning.
 
 ## React
 * [Life Queue](https://github.com/sebastiancrossa/lifequeue)
+* [Life Queue w/ Authentication](https://github.com/sebastiancrossa/lifequeue_auth)
 * [Contactus](https://github.com/sebastiancrossa/contactus)
 * [Pay Agent](https://github.com/sebastiancrossa/pay-agent)
 * [Kisana](https://github.com/sebastiancrossa/kisana-fe)
