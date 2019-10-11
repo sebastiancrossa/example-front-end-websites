@@ -17,4 +17,4 @@ Compilation of front end websites built for the fun of learning.
 * [Posts with Redux](https://github.com/sebastiancrossa/posts-with-redux)
 * [Koala](https://github.com/sebastiancrossa/koala)
 * [Kredito](https://github.com/sebastiancrossa/kredito)
-* [Solcitud Atrato](https://github.com/sebastiancrossa/atrato-solicitud)
+* [Solicitud Atrato](https://github.com/sebastiancrossa/atrato-solicitud)
