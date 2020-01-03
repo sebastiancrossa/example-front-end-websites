@@ -18,3 +18,6 @@ Compilation of front end websites built for the fun of learning.
 * [Koala](https://github.com/sebastiancrossa/koala)
 * [Kredito](https://github.com/sebastiancrossa/kredito)
 * [Solicitud Atrato](https://github.com/sebastiancrossa/atrato-solicitud)
+
+## Full Stack Applications
+* [Wishhh](https://github.com/sebastiancrossa/wishhh)
