@@ -1,5 +1,5 @@
-# Example Frontend Websites
-Compilation of front end websites built for the fun of learning.
+# Example Front-end / Full-stack Websites
+Compilation of front-end / full-stack websites built for the fun of learning.
 
 ## HTML/CSS/JS
 * [Jota Scooters](https://github.com/sebastiancrossa/jotascooters)
